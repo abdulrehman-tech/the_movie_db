@@ -68,10 +68,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/Appii00/Flutter-Bloc-MovieDB-App.git
+$ git clone https://github.com/abdulrehman-tech/the_movie_db.git
 
 # Go into the repository
-$ cd Flutter-Bloc-MovieDB-App
+$ cd the_movie_db
 
 # Install dependencies
 $ flutter packages get
