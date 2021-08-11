@@ -26,7 +26,7 @@
 -  bottom_nav_bar:
  ```
    git:
-      url: https://github.com/Ansh-Rathod/bottom_nav_bar
+      url: https://github.com/abdulrehman-tech/bottom_nav_bar
  ```
 -  cached_network_image: ^3.0.0
 -  cloud_firestore: ^2.4.0
